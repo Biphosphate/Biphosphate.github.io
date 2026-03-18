@@ -1,135 +1,82 @@
-
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Navin Kadel</title>
   <style>
     :root {
-      --text: #222222;
+      --text: #222;
       --subtle: #666;
-      --accent: #000;
-      --bg: #f4f3ee;
+      --bg: #fff;
     }
 
-```
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-body {
-  font-family: "Century Schoolbook", Georgia, "Times New Roman", serif;
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.6;
-  padding: 60px 20px;
-  max-width: 720px;
-  margin: auto;
-}
+    body {
+      font-family: "Century Schoolbook", Georgia, serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 60px 20px;
+      max-width: 720px;
+      margin: auto;
+    }
 
-h1 {
-  font-size: 2rem;
-  font-weight: 500;
-  margin-bottom: 10px;
-}
+    h2 {
+      font-size: 0.9rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--subtle);
+      margin: 60px 0 15px;
+    }
 
-h2 {
-  font-size: 0.9rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--subtle);
-  margin-top: 60px;
-  margin-bottom: 15px;
-}
+    p, li { color: var(--subtle); margin-bottom: 15px; }
+    p.strong { color: var(--text); }
 
-p {
-  margin-bottom: 15px;
-  color: var(--subtle);
-}
+    ul { list-style: none; }
+    li { margin-bottom: 10px; }
 
-.strong {
-  color: var(--text);
-}
+    .links a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: var(--text);
+    }
+    .links a:hover { text-decoration: underline; }
 
-.links a {
-  margin-right: 15px;
-  text-decoration: none;
-  color: var(--text);
-  padding-bottom: 2px;
-}
-
-.links a:hover {
-  border-color: var(--text);
-}
-
-ul {
-  list-style: none;
-}
-
-li {
-  margin-bottom: 10px;
-  color: var(--subtle);
-}
-
-.tag {
-  display: inline-block;
-  font-size: 0.75rem;
-  color: var(--subtle);
-}
-
-footer {
-  margin-top: 80px;
-  font-size: 0.8rem;
-  color: #aaa;
-}
-```
-
+    footer { margin-top: 80px; font-size: 0.8rem; color: #aaa; }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>Navin Kadel</h1>
-    <p class="strong">
-      I am a neurobiology undergrad and D1 athlete at UC San Diego. My biggest interest is 
-    </p>
-
-```
-<div class="links">
-  <a href="#">LinkedIn</a>
-  <a href="#">Email</a>
-  <a href="#">CV</a>
-</div>
-```
-
+    <p class="strong">I am a neurobiology undergrad and D1 athlete at UC San Diego.</p>
+    <div class="links">
+      <a href="https://www.instagram.com/navin.kadel">Instagram</a>
+      <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
+      <a href="https://www.linkedin.com/in/navin-kadel-85a897292/">LinkedIn</a>
+    </div>
   </header>
 
-
   <section>
-    <h2>Research Interests</h2>
+    <h2>athletics</h2>
     <ul>
-      <li>Neural resilience and stress response</li>
-      <li>Oxidative stress in astrocytes and neural support systems</li>
+      <li>big west conference qualifier</li>
+        <div class="links">
+        <a href="https://www.strava.com/athletes/88041958">Strava</a>
+    </div>
     </ul>
   </section>
-
+  
   <section>
-    <h2>Athletics</h2>
+    <h2>academics</h2>
     <ul>
-      <li>California State Championship team — Cross Country</li>
-      <li>NXN qualifier</li>
-      <li>Mile PR: 4:20.9</li>
-      <li>School record — 4x800 relay</li>
+      <li>gpa: 4.0</li>
+      <li>relevant courses: linear algebra, probability & statistics, human physiology</li>
     </ul>
   </section>
+  
 
-  <section>
-    <h2>Notes</h2>
-    <p>
-      I’m interested in how high-performance systems—biological or otherwise—adapt under stress.
-      This applies across athletics, neuros
-
+</body>
+</html>
