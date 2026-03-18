@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -7,7 +6,7 @@
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-
+ 
     body {
       background: #f5f2ee;
       color: #1a1a1a;
@@ -18,7 +17,7 @@
       max-width: 600px;
       margin: auto;
     }
-
+ 
     /* ── Photo ── */
     .photo {
       width: 120px;
@@ -29,29 +28,29 @@
       margin-bottom: 32px;
       background: #d8d3cc;
     }
-
+ 
     /* ── Name ── */
     h1 {
       font-size: 1.6rem;
       font-weight: 500;
       margin-bottom: 4px;
     }
-
+ 
     .role {
       color: #888;
       font-style: italic;
       margin-bottom: 32px;
     }
-
+ 
     /* ── Bio ── */
     .bio {
       margin-bottom: 48px;
       color: #444;
     }
-
+ 
     /* ── Sections ── */
     section { margin-bottom: 40px; }
-
+ 
     h2 {
       font-size: 0.75rem;
       letter-spacing: 0.12em;
@@ -59,21 +58,19 @@
       color: #aaa;
       margin-bottom: 12px;
     }
-
+ 
     ul { list-style: none; }
-    li { color: #444; margin-bottom: 6px; }
-
+    li { color: #1a1a1a; margin-bottom: 6px; }
+ 
     /* ── Links ── */
     .links { display: flex; flex-direction: column; gap: 8px; }
-
+ 
     .links a {
       color: #1a1a1a;
       text-decoration: none;
-      border-bottom: 1px solid #ccc;
       width: fit-content;
-      transition: border-color 0.15s;
     }
-    .links a:hover { border-color: #1a1a1a; }
+    .links a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -91,6 +88,8 @@
     <h2>Academics</h2>
     <ul>
       <li>Relevant Courses: human physiology, linear algebra, probability & statistics</li>
+      <li>cum. gpa: 4.0</li>
+      
     </ul>
   </section>
   
