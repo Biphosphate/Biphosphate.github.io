@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -8,10 +7,10 @@
   <title>Navin Kadel</title>
   <style>
     :root {
-      --text: #111;
+      --text: #222222;
       --subtle: #666;
       --accent: #000;
-      --bg: #fff;
+      --bg: #f4f3ee;
     }
 
 ```
@@ -22,7 +21,7 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: "Century Schoolbook", Georgia, "Times New Roman", serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
@@ -60,7 +59,6 @@ p {
   margin-right: 15px;
   text-decoration: none;
   color: var(--text);
-  border-bottom: 1px solid #ccc;
   padding-bottom: 2px;
 }
 
@@ -97,11 +95,7 @@ footer {
   <header>
     <h1>Navin Kadel</h1>
     <p class="strong">
-      Neurobiology student. Distance runner. Interested in neural systems under stress.
-    </p>
-    <p>
-      Focused on the intersection of neuroscience, performance, and clinical medicine.
-      Long-term direction: neurosurgery.
+      I am a neurobiology undergrad and D1 athlete at UC San Diego. My biggest interest is 
     </p>
 
 ```
@@ -114,28 +108,12 @@ footer {
 
   </header>
 
-  <section>
-    <h2>Work</h2>
-    <ul>
-      <li>
-        Trauma ICU Volunteer — exposure to acute care workflows, patient stabilization, and clinical environments
-      </li>
-      <li>
-        Physical Medicine & Rehab Shadowing — non-surgical recovery, pain management, patient progression
-      </li>
-      <li>
-        Ralph Richardson Center — assisted in care for profoundly disabled individuals
-      </li>
-    </ul>
-  </section>
 
   <section>
     <h2>Research Interests</h2>
     <ul>
       <li>Neural resilience and stress response</li>
       <li>Oxidative stress in astrocytes and neural support systems</li>
-      <li>Performance physiology in elite endurance athletes</li>
-      <li>Data-driven training systems (Strava / workload modeling)</li>
     </ul>
   </section>
 
