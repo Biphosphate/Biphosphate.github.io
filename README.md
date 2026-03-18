@@ -82,12 +82,12 @@
   <p class="role">Neurobiology, UC San Diego &middot; D1 Athlete</p>
 
   <p class="bio">
-    Undergrad studying neurobiology at UC San Diego. I compete as a D1 track athlete and am interested in the science of human performance.
+    I am a first-year undergraduate studying neurobiology at UC San Diego.<br> Interested in applied neuroscience and medicine.
   </p>
   <section>
     <h2>Academics</h2>
     <ul>
-      <li>Relevant Courses: human physiology, linear algebra, probability & statistics</li>
+      <li>Relevant Courses: human physiology, linear algebra, probability & statistics, calculus, chemistry</li>
       <li>cum. gpa: 4.0</li>
       
     </ul>
