@@ -132,7 +132,7 @@
   </div>
 
   <div id="projects" class="tab">
-    <p class="content">brain computer interface hackathon.</p>
+    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The data set we chose was a real-time linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), or predicting just the way a rhesus macaque would move it's fingers based only on neuron spiking. Our project specifically was reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R^2; the proportion of variance in a finger velocity explained by spiking activity in our regression model).  </p>
   </div>
 
   <div id="misc" class="tab">
