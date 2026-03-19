@@ -60,6 +60,14 @@
       margin-bottom: -1px;
       transition: color 0.15s;
     }
+    nav {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ddd;
+    overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
 
     nav button:hover { color: #555; }
     nav button.active { color: #1a1a1a; border-bottom: 2px solid #1a1a1a; }
@@ -125,7 +133,7 @@
   </div>
 
   <div id="projects" class="tab">
-    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The dataset we chose was a linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array) — predicting the way a rhesus macaque would move its fingers based only on neuron spiking. Our project specifically focused on reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R², the proportion of variance in finger velocity explained by spiking activity in our regression model).</p>
+    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The dataset we chose was a linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), which is basically predicting the way a rhesus macaque would move its fingers based only on neuron spiking. Our project specifically focused on reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R², the proportion of variance in finger velocity explained by spiking activity in our regression model).</p>
     <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
