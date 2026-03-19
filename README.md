@@ -143,8 +143,8 @@
 
   <div id="misc" class="tab">
     <p class="content">Inspired by 2D cross-sectioning that MRI machines do, I thought it would be interesting to create a 3-D structure of basic neuroanatomy using a similar 2D cross-sectioning method. I cut out uniquely shaped 12 cardboard slices and painted both sides of each slice with their corresponding brain region and connected the slices with three 1x1 lego stud hotglued to each side of each slice.</p>
-    <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
-    <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
+    <img src="IMG_0027_2.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
+    <img src="IMG_0028.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
 
