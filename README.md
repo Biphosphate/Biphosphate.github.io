@@ -96,8 +96,13 @@
     Interested in translational neuroscience.
   </p>
 
-  <div class="header-links">
-    <a href="mailto:nkadel@ucsd.edu">email</a>
+  <div id="connect" class="tab">
+    <p class="content">I am open to connect if you find anything here interesting.</p>
+    <div class="links">
+      <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
+      <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">LinkedIn</a>
+      <a href="https://www.instagram.com/navin.kadel" target="_blank">Instagram</a>
+    </div>
   </div>
 
   <nav>
@@ -135,14 +140,7 @@
     <p class="content">brain slice</p>
   </div>
 
-  <div id="connect" class="tab">
-    <p class="content">I am open to connect if you find anything here interesting.</p>
-    <div class="links">
-      <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
-      <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">LinkedIn</a>
-      <a href="https://www.instagram.com/navin.kadel" target="_blank">Instagram</a>
-    </div>
-  </div>
+
 
   <script>
     function showTab(event, id) {
