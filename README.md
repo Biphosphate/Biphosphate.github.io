@@ -81,30 +81,33 @@
   <p class="role">Neurobiology, UC San Diego &middot; D1 Athlete</p>
 
   <p class="bio">
-    I am a first-year undergraduate studying neurobiology at UC San Diego.<br> Interested in translational neuroscience, running fast, and staying tapped into the ug.
+    I am a first-year undergraduate studying neurobiology at UC San Diego.<br> Interested in translational neuroscience and running fast.
   </p>
   <section>
     <h2>Academics</h2>
-    <ul>
-      <li>Relevant Courses: human physiology, linear algebra, probability & statistics, calculus, chemistry</li>
-      <li>cum. gpa: 4.0</li>
+    <p>
+    relevant courses: human physiology, linear algebra, probability & statistics, calculus, chemistry<br>
+    cum. gpa: 4.0
       
-    </ul>
+    </p>
   </section>
   
 
   <section>
     <h2>Athletics</h2>
     <ul>
-    <li>Big West Conference Qualifier</li>
+    <li>2024 CIF XC State Champion</li>
+      <li>#18 California Senior in the mile</li>
+      <li>NCAA Division 1 Cross Country, Track & Field Athlete</li>
+      <li>Big West Conference Qualifier</li>
       
     </ul>
   </section>
 
   <section>
-    <h2>Collaborate!</h2>
+    <h2>Collaborate & Contact</h2>
       <p class="bio">
-    I'd love to connect if you find anything here interesting
+    I am open to connect if you find anything here interesting
   </p>
     <div class="links">
       <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
