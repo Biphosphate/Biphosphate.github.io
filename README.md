@@ -132,12 +132,14 @@
   </div>
 
   <div id="projects" class="tab">
-    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The data set we chose was a real-time linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), or predicting just the way a rhesus macaque would move it's fingers based only on neuron spiking. Our project specifically was reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R^2; the proportion of variance in a finger velocity explained by spiking activity in our regression model).  </p>
+    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The data set we chose was a linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), or predicting just the way a rhesus macaque would move it's fingers based only on neuron spiking. Our project specifically was reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R^2; the proportion of variance in a finger velocity explained by spiking activity in our regression model).  </p>
      <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
   <div id="misc" class="tab">
-    <p class="content">brain slice</p>
+    <p class="content">Inspired by 2D cross-sectioning that MRI machines do, I thought it would be interesting to create a 3-D structure of basic neuroanatomy using a similar 2D cross-sectioning method. I cut out uniquely shaped 12 cardboard slices and painted both sides of each slice with their corresponding brain region and connected the slices with three 1x1 lego stud hotglued to each side of each slice.</p>
+    <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
+    <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
 
