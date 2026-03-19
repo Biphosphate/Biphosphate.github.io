@@ -81,7 +81,7 @@
   <p class="role">Neurobiology, UC San Diego &middot; D1 Athlete</p>
 
   <p class="bio">
-    I am a first-year undergraduate studying neurobiology at UC San Diego.<br> Interested in applied neuroscience and medicine.
+    I am a first-year undergraduate studying neurobiology at UC San Diego.<br> Interested in translational neuroscience, running fast, and staying tapped into the ug.
   </p>
   <section>
     <h2>Academics</h2>
@@ -102,7 +102,10 @@
   </section>
 
   <section>
-    <h2>Links</h2>
+    <h2>Collaborate!</h2>
+      <p class="bio">
+    I'd love to connect if you find anything here interesting
+  </p>
     <div class="links">
       <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
       <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">LinkedIn</a>
