@@ -96,7 +96,7 @@
     Interested in translational neuroscience.
   </p>
 
-  <div id="connect" class="tab">
+  <div>
     <p class="content">I am open to connect if you find anything here interesting.</p>
     <div class="links">
       <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
