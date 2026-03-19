@@ -54,7 +54,7 @@
     h2 {
       font-size: 0.75rem;
       letter-spacing: 0.12em;
-      color: #fff;
+      color: #000000;
       margin-bottom: 12px;
     }
  
