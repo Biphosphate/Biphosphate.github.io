@@ -124,6 +124,9 @@
       <li>Top 20 California Senior in the mile</li>
       <li>NCAA Division 1 Cross Country, Track &amp; Field Athlete</li>
       <li>Big West Conference Qualifier</li>
+      <div class="links">
+      <a href="[https://www.linkedin.com/in/navin-kadel-85a897292/](https://www.jesuithighschool.org/plank-article/navin-kadel-25-running-show)" target="_blank">cool article about my running</a>
+    </div>
     </ul>
   </div>
 
