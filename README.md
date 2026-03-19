@@ -89,8 +89,6 @@
 
   <img class="photo" src="IMG_4638.JPG" alt="Navin Kadel" onerror="this.style.background='#d8d3cc'; this.removeAttribute('src')" />
 
-  <p class="role">Neurobiology, UC San Diego &middot; D1 Athlete</p>
-
   <p class="bio">
     I am a first-year neurobiology undergraduate at UC San Diegp interested in translational neuroscience.
   </p>
