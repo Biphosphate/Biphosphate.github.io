@@ -76,9 +76,8 @@
 <body>
 
   <!-- Replace src with your actual photo path, e.g. src="photo.jpg" -->
-  <img class="photo" src="IMG_2493 2.jpg" alt="Navin Kadel" onerror="this.style.background='#d8d3cc'; this.removeAttribute('src')" />
+  <img class="photo" src="IMG_4638.JPG" alt="Navin Kadel" onerror="this.style.background='#d8d3cc'; this.removeAttribute('src')" />
 
-  <h1>Navin Kadel</h1>
   <p class="role">Neurobiology, UC San Diego &middot; D1 Athlete</p>
 
   <p class="bio">
