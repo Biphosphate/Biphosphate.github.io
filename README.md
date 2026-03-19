@@ -93,7 +93,7 @@
 
   <p class="bio">
     I am a first-year undergraduate studying neurobiology at UC San Diego.<br>
-    Interested in translational neuroscience and running fast.
+    Interested in translational neuroscience.
   </p>
 
   <div class="header-links">
@@ -104,6 +104,7 @@
     <button class="active" onclick="showTab(event, 'academics')">academics</button>
     <button onclick="showTab(event, 'athletics')">athletics</button>
     <button onclick="showTab(event, 'research')">research</button>
+    <button onclick="showTab(event, 'projects')">projects</button>
     <button onclick="showTab(event, 'misc')">misc</button>
     <button onclick="showTab(event, 'connect')">connect</button>
   </nav>
@@ -124,6 +125,10 @@
 
   <div id="research" class="tab">
     <p class="content">to be added soon...</p>
+  </div>
+
+  <div id="projects" class="tab">
+    <p class="content">brain computer interface hackathon.</p>
   </div>
 
   <div id="misc" class="tab">
