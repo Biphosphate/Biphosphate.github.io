@@ -83,7 +83,7 @@
 
     /* ── Links inside tabs ── */
     .links { display: flex; flex-direction: row; gap: 8px; margin-top: 8px; }
-    .links a { color: #1a1a1a; text-decoration: none; width: fit-content; }
+    .links a { color: #4a7fa5; text-decoration: underline; width: fit-content; }
     .links a:hover { text-decoration: underline; }
   </style>
 </head>
@@ -123,9 +123,7 @@
       <li>NCAA Division 1 Cross Country, Track &amp; Field Athlete</li>
       <li>Big West Conference Qualifier</li>
     </ul>
-    <div class="links" style="margin-top: 12px;">
       <a href="https://www.jesuithighschool.org/plank-article/navin-kadel-25-running-show" target="_blank">cool article about my running</a>
-    </div>
   </div>
 
   <div id="research" class="tab">
