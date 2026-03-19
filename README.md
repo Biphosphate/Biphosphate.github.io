@@ -80,7 +80,7 @@
     p.content { color: #444; margin-bottom: 12px; }
 
     /* ── Links inside tabs ── */
-    .links { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+    .links { display: flex; flex-direction: row; gap: 8px; margin-top: 8px; }
     .links a { color: #1a1a1a; text-decoration: none; width: fit-content; }
     .links a:hover { text-decoration: underline; }
   </style>
@@ -101,7 +101,7 @@
     <div class="links">
       <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
       <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">LinkedIn</a>
-      <a href="https://www.instagram.com/navin.kadel" target="_blank">Instagram</a>
+      <a href="https://www.instagram.com/navin.kadel" target="_blank">Instagram</a><br>
     </div>
   </div>
 
