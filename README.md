@@ -97,7 +97,7 @@
   <section>
     <h2>Athletics</h2>
     <ul>
-      <li>Big West Conference Qualifier</li>
+    <li>Big West Conference Qualifier</li>
       
     </ul>
   </section>
