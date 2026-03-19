@@ -112,8 +112,8 @@
   </nav>
 
   <div id="academics" class="tab active">
-    <p class="content">Relevant courses: human physiology, linear algebra, probability &amp; statistics, calculus, general chemistry</p>
-    <p class="content">Cum. GPA: 4.0</p>
+    <p class="content">relevant courses: human physiology, linear algebra, probability &amp; statistics, calculus, general chemistry</p>
+    <p class="content">cumulative gpa: 4.0</p>
   </div>
 
   <div id="athletics" class="tab">
