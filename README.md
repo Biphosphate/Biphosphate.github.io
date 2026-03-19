@@ -54,8 +54,7 @@
     h2 {
       font-size: 0.75rem;
       letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #aaa;
+      color: #fff;
       margin-bottom: 12px;
     }
  
@@ -97,7 +96,7 @@
     <h2>Athletics</h2>
     <ul>
     <li>2024 CIF XC State Champion</li>
-      <li>#18 California Senior in the mile</li>
+      <li>Top 20 California Senior in the mile</li>
       <li>NCAA Division 1 Cross Country, Track & Field Athlete</li>
       <li>Big West Conference Qualifier</li>
       
