@@ -96,15 +96,15 @@
   </p>
 
   <div>
-    <p class="content">I am open to connect if you find anything here interesting.</p>
     <div class="links">
-      <a href="mailto:nkadel@ucsd.edu">nkadel@ucsd.edu</a>
-      <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">LinkedIn</a>
-      <a href="https://www.instagram.com/navin.kadel" target="_blank">Instagram</a><br>
+      <a href="mailto:nkadel@ucsd.edu"><u>email</u></a> /
+      <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank"><u>linkedin</u</a> /
+      <a href="https://www.instagram.com/navin.kadel" target="_blank"><u>instagram</u></a><br>
     </div>
   </div>
 
   <nav>
+    <br>
     <button class="active" onclick="showTab(event, 'academics')">academics</button>
     <button onclick="showTab(event, 'athletics')">athletics</button>
     <button onclick="showTab(event, 'research')">research</button>
