@@ -116,6 +116,8 @@
   <div id="academics" class="tab active">
     <p class="content">Relevant courses: human physiology, linear algebra, probability &amp; statistics, calculus, general chemistry</p>
     <p class="content">Cum. GPA: 4.0</p>
+     <img src="IMG_3093.jpg" alt="neuron" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
+    
   </div>
 
   <div id="athletics" class="tab">
