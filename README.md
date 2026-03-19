@@ -111,7 +111,6 @@
     <button onclick="showTab(event, 'research')">research</button>
     <button onclick="showTab(event, 'projects')">projects</button>
     <button onclick="showTab(event, 'misc')">misc</button>
-    <button onclick="showTab(event, 'connect')">connect</button>
   </nav>
 
   <div id="academics" class="tab active">
