@@ -123,8 +123,6 @@
       <li>2024 CIF XC State Champion</li>
       <li>Big West Conference Qualifier</li>
     </ul>
-      <a href="https://www.jesuithighschool.org/plank-article/navin-kadel-25-running-show" target="_blank">      article about my running</a>
-    <img src="20250827_ucsd_xc_media-day_dtuskan_01443.jpg" alt="roster photo" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
   <div id="research" class="tab">
