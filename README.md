@@ -106,7 +106,6 @@
   <nav>
     <button class="active" onclick="showTab(event, 'academics')">academics</button>
     <button onclick="showTab(event, 'athletics')">athletics</button>
-    <button onclick="showTab(event, 'research')">skills</button>
     <button onclick="showTab(event, 'projects')">projects</button>
     <button onclick="showTab(event, 'misc')">misc</button>
   </nav>
@@ -124,9 +123,6 @@
     </ul>
   </div>
 
-  <div id="research" class="tab">
-    <p class="content">to be added soon...</p>
-  </div>
 
   <div id="projects" class="tab">
     <p class="content">
