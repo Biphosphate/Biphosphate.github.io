@@ -118,12 +118,12 @@
 
   <div id="athletics" class="tab">
     <ul>
-      <li>2024 CIF XC State Champion</li>
-      <li>Top 20 California Senior in the mile (4:11)</li>
       <li>NCAA Division 1 Cross Country, Track &amp; Field Athlete</li>
+      <li>Top 20 California Senior in the mile (4:11)</li>
+      <li>2024 CIF XC State Champion</li>
       <li>Big West Conference Qualifier</li>
     </ul>
-      <a href="https://www.jesuithighschool.org/plank-article/navin-kadel-25-running-show" target="_blank">cool article about my running</a>
+      <a href="https://www.jesuithighschool.org/plank-article/navin-kadel-25-running-show" target="_blank">      article about my running</a>
   </div>
 
   <div id="research" class="tab">
