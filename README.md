@@ -100,7 +100,7 @@
     <span>/</span>
     <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">linkedin</a>
     <span>/</span>
-    <a href="https://docs.google.com/document/d/19Tk-rhccPe6SqK5dxZWhPgyvwthkL2GTBk75wPhsGvs/edit?tab=t.0" target="_blank">cv</a>
+    <a href="cv.pdf" target="_blank" rel="noopener noreferrer">cv</a>
     <span>/</span>
   </div>
 
