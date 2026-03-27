@@ -101,7 +101,6 @@
     <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">linkedin</a>
     <span>/</span>
     <a href="cv.pdf" target="_blank" rel="noopener noreferrer">cv</a>
-    <span>/</span>
   </div>
 
   <nav>
