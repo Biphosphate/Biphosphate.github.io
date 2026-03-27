@@ -100,13 +100,14 @@
     <span>/</span>
     <a href="https://www.linkedin.com/in/navin-kadel-85a897292/" target="_blank">linkedin</a>
     <span>/</span>
-    <a href="https://www.instagram.com/navin.kadel" target="_blank">instagram</a>
+    <a href="https://docs.google.com/document/d/19Tk-rhccPe6SqK5dxZWhPgyvwthkL2GTBk75wPhsGvs/edit?tab=t.0" target="_blank">cv</a>
+    <span>/</span>
   </div>
 
   <nav>
     <button class="active" onclick="showTab(event, 'academics')">academics</button>
     <button onclick="showTab(event, 'athletics')">athletics</button>
-    <button onclick="showTab(event, 'research')">research</button>
+    <button onclick="showTab(event, 'research')">skills</button>
     <button onclick="showTab(event, 'projects')">projects</button>
     <button onclick="showTab(event, 'misc')">misc</button>
   </nav>
@@ -120,8 +121,7 @@
     <ul>
       <li>NCAA Division 1 Cross Country, Track &amp; Field Athlete</li>
       <li>Top 20 California Senior in the mile (4:11)</li>
-      <li>2024 CIF XC State Champion</li>
-      <li>Big West Conference Qualifier</li>
+      <li>CIF XC State Champion</li>
     </ul>
   </div>
 
@@ -130,7 +130,8 @@
   </div>
 
   <div id="projects" class="tab">
-    <p class="content">I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The dataset we chose was a linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), which is basically predicting the way a rhesus macaque would move its fingers based only on neuron spiking. Our project specifically focused on reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R², the proportion of variance in finger velocity explained by spiking activity in our regression model).</p>
+    <p class="content">
+      I competed in a brain computer interface hackathon and worked in a team of four doing data science/statistical tests. The dataset we chose was a linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface (Utah Array), which is basically predicting the way a rhesus macaque would move its fingers based only on neuron spiking. Our project specifically focused on reducing neural dimensionality by selectively removing low-correlation channels while maintaining decoder performance (measured by R², the proportion of variance in finger velocity explained by spiking activity in our regression model).</p>
     <img src="bciiiii.jpg" alt="BCI figures" style="width: 80%; margin-top: 24px; border-radius: 4px;" />
   </div>
 
