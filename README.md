@@ -89,7 +89,7 @@
 </head>
 <body>
 
-  <img class="photo" src="IMG_4638.JPG" alt="Navin Kadel" onerror="this.style.background='#d8d3cc'; this.removeAttribute('src')" />
+  <img class="photo" src="IMG_2493 2.jpg" alt="Navin Kadel" onerror="this.style.background='#d8d3cc'; this.removeAttribute('src')" />
 
   <p class="bio">
     I am a first-year neurobiology undergraduate at UC San Diego interested in translational neuroscience.
